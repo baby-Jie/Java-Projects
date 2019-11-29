@@ -9,4 +9,4 @@ Release/
 Debug/
 packages/
 .vs/
-.idea/
+.idea/*
